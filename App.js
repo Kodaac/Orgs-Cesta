@@ -7,7 +7,7 @@ import Cesta from './src/telas/Cesta';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Cesta />
+      <Cesta/>
       <StatusBar style="auto" />
     </View>
   );
